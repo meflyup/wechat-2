@@ -1,8 +1,6 @@
 click==6.6
 Flask==0.11.1
-hashlib==20081119
-hmac==20101005
-itsdangerous==0.24
+itsdangerous==0.22
 Jinja2==2.8
 MarkupSafe==0.23
 requests==2.11.1
