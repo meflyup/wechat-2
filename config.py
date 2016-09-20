@@ -11,7 +11,7 @@ WELCOME_WORD = u'''\
 目录： 获取文章目录的网址
 帮助： 获取本信息
 其他： 图灵机器人会陪你聊天'''
-INDEX_URL = 'http://139.129.40.216/articles_list'
+INDEX_URL = 'https://lonelyblacksheep.herokuapp.com//articles_list'
 REPLY_DICT = {
     u'目录': '点这里-> ' + INDEX_URL,
     u'帮助': WELCOME_WORD,
