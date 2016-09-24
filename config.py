@@ -15,7 +15,7 @@ INDEX_URL = 'https://lonelyblacksheep.herokuapp.com//articles_list'
 REPLY_DICT = {
     u'目录': '点这里-> ' + INDEX_URL,
     u'帮助': WELCOME_WORD,
-    u'美女': 'image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&ie=gbk&word=word=%C3%C0%C5%AE&ala=1&fr=ala&alatpl=cover&pos=0#z=0&pn=&ic=0&st=-1&face=0&s=0&lm=-1'
+    u'美女': 'http://image.baidu.com/search/wiseala?tn=wiseala&ie=utf8&word=%E7%BE%8E%E5%A5%B3&needpersonalized=0&haspersonalized=0&fr=alawise&pos=1&stdstl=2&tp=weaken'
 }
 MENU = {}
 ARTICLES_DIR = 'articles'
