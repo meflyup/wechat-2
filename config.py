@@ -15,6 +15,7 @@ INDEX_URL = 'https://lonelyblacksheep.herokuapp.com//articles_list'
 REPLY_DICT = {
     u'目录': '点这里-> ' + INDEX_URL,
     u'帮助': WELCOME_WORD,
+    u'美女': 'Hello world'
 }
 MENU = {}
 ARTICLES_DIR = 'articles'
