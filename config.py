@@ -7,6 +7,7 @@ TULING_KEY = '0ecb5d6bca4d41fba0724bb04409cf4d'
 ADMIN_OAUTH = 'admin_oauth'
 WELCOME_WORD = u'''\
 欢迎关注我的微信号！
+点击右上角的小人，查看历史消息
 回复下列内容获取对应信息：
 目录： 获取文章目录的网址
 帮助： 获取本信息
